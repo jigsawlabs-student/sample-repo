@@ -1,2 +1,0 @@
-def intro():
-    'hello world'
