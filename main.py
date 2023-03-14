@@ -3,3 +3,6 @@ def run():
 
 def display():
     pass
+
+def mistake():
+    pass
